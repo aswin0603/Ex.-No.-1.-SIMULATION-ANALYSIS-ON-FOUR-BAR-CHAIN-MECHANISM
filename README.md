@@ -1,6 +1,6 @@
 # Ex. No. 01 - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
-## DATE: 19 - 10 - 2024
+## DATE: 19/10/2024
 
 ## AIM:
 
@@ -54,7 +54,7 @@
 
 
 ### Name: ASWIN B
-### Register Number: 24900642
+### Register Number: 212224110007
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
